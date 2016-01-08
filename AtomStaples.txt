@@ -1,1 +1,2 @@
 cat >> dog
+Atom is the mean of life for a physicist
